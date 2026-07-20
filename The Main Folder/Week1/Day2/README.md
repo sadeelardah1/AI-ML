@@ -77,7 +77,7 @@ Day-2-Python-Fundamentals/
 
 ## Notebook Details
 
-### 1. `DataTypes_Modified.ipynb`
+### 1. `DataTypes.ipynb`
 
 This notebook introduces Python's main built-in data types.
 
@@ -99,7 +99,7 @@ This notebook provides the foundation needed to store and manipulate data in lat
 
 ---
 
-### 2. `ControlFlow_Modified.ipynb`
+### 2. `ControlFlow.ipynb`
 
 This notebook demonstrates how Python controls the execution of a program.
 
@@ -122,7 +122,7 @@ The notebook includes a non-interactive password example so that all cells can r
 
 ---
 
-### 3. `Function_Modified.ipynb`
+### 3. `Function.ipynb`
 
 This notebook explains how to organize reusable logic using functions.
 
@@ -157,7 +157,7 @@ def get_stats(numbers):
 
 ---
 
-### 4. `ListComprehension&OOP_Modified.ipynb`
+### 4. `ListComprehension&OOP.ipynb`
 
 This notebook covers two important Python concepts: list comprehensions and object-oriented programming.
 
