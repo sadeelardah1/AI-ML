@@ -514,14 +514,6 @@ Update Day 2 README
 
 ---
 
-## Author
-
-**Name:** Sajed Kittaneh  
-**Program:** BinX Tech AI & Machine Learning Internship  
-**Module:** Week 1 — Day 2: Python for Data Science
-
----
-
 ## Acknowledgment
 
 This project was completed as part of the BinX Tech AI & Machine Learning Internship Program. It demonstrates the Python fundamentals required for upcoming work with NumPy, Pandas, Matplotlib, and machine learning libraries.
