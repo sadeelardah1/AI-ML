@@ -2,7 +2,7 @@
 
 A comprehensive summary of Day 4 in a Python data analysis learning series, focused on the **Pandas** library — explained step by step with hands-on, self-contained examples.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [What Is Pandas?](#0-what-is-pandas)
@@ -17,7 +17,7 @@ A comprehensive summary of Day 4 in a Python data analysis learning series, focu
 - [How to Run](#️-how-to-run)
 - [Requirements](#-requirements)
 
-## 📌 Overview
+## Overview
 
 This notebook (`Day4_Pandas.ipynb`) covers the fundamentals of Pandas with practical, ready-to-run examples. It runs entirely on its own, generating its own sample dataset internally — no external CSV file required.
 
@@ -79,7 +79,7 @@ A small, professional example following the same **load → inspect → clean �
 - Clean data with `.isnull().sum()`, `.fillna()`, `.drop_duplicates()`
 - Use `.groupby()` to summarize and spot patterns across categories
 
-## 🎯 Key Skills Gained
+## Key Skills Gained
 
 - Distinguishing between `Series` and `DataFrame` and understanding their structure
 - Quickly inspecting any new dataset before working with it
@@ -88,7 +88,7 @@ A small, professional example following the same **load → inspect → clean �
 - Using `groupby` to extract patterns and statistics
 - Building a simple end-to-end data analysis pipeline
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install pandas numpy jupyter
@@ -97,13 +97,13 @@ jupyter notebook Day4_Pandas.ipynb
 
 The notebook is fully self-contained — it generates its own sample data internally using `numpy` (with a fixed `seed` for reproducible results).
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.x
 - pandas
 - numpy
 - jupyter / jupyterlab
 
-## 📝 Note
+## Note
 
 This file is part of a "Days" series for learning data analysis with Python (Day 1, Day 2, ...). This is **Day 4**, dedicated to the Pandas library.
