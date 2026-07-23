@@ -3,13 +3,6 @@
 **BinX Tech · AI & Machine Learning Internship Program · Phase 1: Foundations**
 **Week 1 of 10 · 5 Days · 40 Hours**
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-DataFrames-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## Overview
