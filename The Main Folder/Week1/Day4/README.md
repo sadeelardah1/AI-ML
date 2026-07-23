@@ -1,4 +1,4 @@
-# Day 4 — Pandas 🐼
+# Day 4 — Pandas
 
 A comprehensive summary of Day 4 in a Python data analysis learning series, focused on the **Pandas** library — explained step by step with hands-on, self-contained examples.
 
