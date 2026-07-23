@@ -1,10 +1,5 @@
 # NumPy
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 A practical Jupyter Notebook covering the fundamental concepts of **NumPy** and numerical computing in Python.
 
 ---
