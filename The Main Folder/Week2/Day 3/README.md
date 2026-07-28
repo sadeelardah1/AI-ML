@@ -11,7 +11,7 @@
 2. [Learning Objectives](#learning-objectives)
 3. [Key Topics](#key-topics)
 4. [Files in This Folder](#files-in-this-folder)
-5. [How to Use `Week2_Day3.ipynb`](#how-to-use-week2_day3ipynb)
+5. [How to Use `Week2_Day3.ipynb`](#how-to-use-Day3ipynb)
 6. [Lesson Summary](#lesson-summary)
    - [1. Why Linear Algebra Is the Language of ML](#1-why-linear-algebra-is-the-language-of-ml)
    - [2. Vectors](#2-vectors)
