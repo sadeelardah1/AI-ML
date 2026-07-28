@@ -11,7 +11,7 @@
 2. [Learning Objectives](#learning-objectives)
 3. [Key Topics](#key-topics)
 4. [Files in This Folder](#files-in-this-folder)
-5. [How to Use `Week2_Day3.ipynb`](#how-to-use-week2_day3ipynb)
+5. [How to Use `Day3.ipynb`](#how-to-use-Day3ipynb)
 6. [Lesson Summary](#lesson-summary)
    - [1. Why Linear Algebra Is the Language of ML](#1-why-linear-algebra-is-the-language-of-ml)
    - [2. Vectors](#2-vectors)
@@ -56,10 +56,10 @@ By the end of Day 3, you should be able to:
 
 | File | Description |
 |---|---|
-| `Week2_Day3.ipynb` | The full, detailed Day 3 lesson notebook — explanations, worked examples, a cheat sheet, and the Hands-On Lab, fully executed with outputs, including a deliberately triggered and explained `ValueError`. |
+| `Day3.ipynb` | The full, detailed Day 3 lesson notebook — explanations, worked examples, a cheat sheet, and the Hands-On Lab, fully executed with outputs, including a deliberately triggered and explained `ValueError`. |
 | `README.md` | This file — a plain-language overview of the whole lesson, for anyone browsing the repository. |
 
-## How to Use `Week2_Day3.ipynb`
+## How to Use `Day3.ipynb`
 
 1. Open the notebook in **Jupyter Notebook**, **VS Code**, or **Google Colab**.
 2. Read top-to-bottom — every section opens with a short **Note** or **Goal** box explaining
@@ -128,7 +128,7 @@ By the end of Week 2, submit the following to your mentor and GitHub repository:
 
 - [x] A descriptive-statistics notebook computing and interpreting central tendency and spread for a real dataset *(Day 1)*
 - [x] A probability notebook with simulations for coin flips, a normal distribution, and a conditional-probability check *(Day 2)*
-- [x] **A linear-algebra notebook demonstrating vectors, matrices, the dot product, and matrix multiplication for prediction** ← this is `Week2_Day3.ipynb`
+- [x] **A linear-algebra notebook demonstrating vectors, matrices, the dot product, and matrix multiplication for prediction** ← this is `Day3.ipynb`
 - [ ] A univariate EDA notebook with distributions, box plots, and documented outlier handling
 - [ ] The complete Week 2 EDA notebook (statistics + univariate + bivariate + correlation) with a data-storytelling narrative
 - [ ] All Week 2 notebooks committed to the intern's GitHub repository with clear commit messages
