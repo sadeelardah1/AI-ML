@@ -36,7 +36,7 @@ By the end of this notebook, the reader will be able to:
 | 4 | Tuning a Whole Pipeline | The double-underscore naming convention, and why the whole object is tuned, not just the model |
 | 5 | The Week 4 Mini-Project | How the whole week's work converges into one tuned pipeline |
 | 6 | Common Mistakes to Avoid | Five pitfalls: preprocessing outside the Pipeline, missing step prefixes, re-touching the test set, etc. |
-| 7 | Quick Reference — Cheat Sheet | One table with every key line of code from the lesson |
+| 7 | Quick Reference | One table with every key line of code from the lesson |
 | 8 | Hands-On Lab — Tuned End-to-End Pipeline | The graded lab: 5 steps + 1 reflection question, run on real data |
 | 9 | Best Practices & Reproducibility | Checklist for building and tuning pipelines correctly every time |
 | 10 | Summary — What I Learned This Week | A day-by-day recap tying all of Week 4 together |
@@ -53,7 +53,6 @@ The lab reuses the Day 1–4 Titanic split (`random_state=42`) and follows the f
 | 3 | Tune the full pipeline with GridSearchCV and 5-fold cross-validation | best params `{max_depth: 10, n_estimators: 100}`, cross-validated F1 ≈ 0.547 |
 | 4 | Evaluate the final tuned pipeline once on the held-out test set, against a baseline | baseline test F1 ≈ 0.420, tuned test F1 ≈ 0.435 — a small, honest improvement |
 | 5 | Note the finished workflow's structure (pipeline diagram) | visual confirmation of the leak-free, single-object structure |
-| — | Your turn: explain why bundling everything into one Pipeline made tuning and evaluation simpler and safer | Short written reflection |
 
 The held-out test set is opened exactly once in Step 4 — after every tuning decision was already finalized using cross-validation on the training set only, closing the loop that started with the Day 1 three-way split.
 
