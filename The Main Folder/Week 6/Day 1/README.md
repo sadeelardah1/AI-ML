@@ -75,23 +75,23 @@ By the end of Day 1, you should be able to:
 
 | File | Description |
 |---|---|
-| `03_week6_day1_sprint1_baseline.ipynb` | The Day 1 notebook — explanations, a worked neuron example using this project's own features, a cheat sheet, and the Hands-On Lab, fully executed against the real project data and results. |
+| `Day1.ipynb` | The Day 1 notebook — explanations, a worked neuron example using this project's own features, a cheat sheet, and the Hands-On Lab, fully executed against the real project data and results. |
 | `README.md` | This file. |
 
-This notebook is designed to sit inside the existing project's `notebooks/` folder, alongside
-`01_data_understanding_and_eda.ipynb` and `02_supervised_learning_and_model_comparison.ipynb`, and reads directly
-from the project's own `../data/processed/heart_cleaned.csv` and `../outputs/model_comparison.csv`.
+This notebook reads directly from `heart_cleaned.csv` and `model_comparison.csv`, which the earlier project
+notebooks (`01_data_understanding_and_eda.ipynb` and `02_supervised_learning_and_model_comparison.ipynb`)
+already produced.
 
 ## How to Use the Notebook
 
-1. Place `03_week6_day1_sprint1_baseline.ipynb` inside the Cardiac Patient Monitoring project's `notebooks/`
-   folder (it expects `data/` and `outputs/` one level up, exactly like the existing notebooks).
+1. Place `Day1.ipynb` in the same folder as `heart_cleaned.csv` and `model_comparison.csv` (both files are
+   read using plain, same-folder filenames, not a nested `data/` or `outputs/` path).
 2. Open it in Jupyter Notebook, VS Code, or Google Colab.
 3. Read top-to-bottom — every section opens with a short **Note**, **Goal**, **Tip**, or **Important** box
    explaining *why* a step matters before showing *how* to do it.
 4. Run each code cell in order (`Shift + Enter`). All cells are already executed once, so you can also just read
    the saved outputs without re-running anything.
-5. Make sure `data/processed/heart_cleaned.csv` and `outputs/model_comparison.csv` already exist — both are
+5. Make sure `heart_cleaned.csv` and `model_comparison.csv` already exist in that same folder — both are
    produced by the project's earlier notebooks (`01_...` and `02_...`), which should be run first if starting
    from scratch.
 
@@ -142,7 +142,7 @@ kickoff:
 1. **Confirm** Sprint 1 planning: restate the sprint goal, adapted to reflect that the baseline task is already
    complete.
 2. **Load** the project's existing cleaned dataset (`heart_cleaned.csv`, 917 patients).
-3. **Confirm** the existing baseline score by reading it directly from `outputs/model_comparison.csv`, rather
+3. **Confirm** the existing baseline score by reading it directly from `model_comparison.csv`, rather
    than retraining it.
 4. **Document** the feature-branch and pull-request workflow used to commit this confirmation.
 5. **Record**, in Markdown, the exact baseline score this week's neural network must beat.
