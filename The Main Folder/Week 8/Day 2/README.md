@@ -27,7 +27,6 @@ The notebook combines clear explanations, small teaching examples, real IMDb dat
 - [How to Run](#how-to-run)
 - [What I Learned](#what-i-learned)
 - [Reference](#reference)
-
 ---
 
 ## Overview
